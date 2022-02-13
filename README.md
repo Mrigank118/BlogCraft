@@ -1,6 +1,6 @@
 <h1 align="center">BlogCraft</h1>
 
-<img src="highlow.PNG" alt="IMAGE OF THE GAME"> 
+<img src="blogcraft.PNG" alt="IMAGE OF THE GAME"> 
 <h2>A Blogging Website made on Minecraft </h2>
 <p>Made Using HTML, CSS, JavaScript,  contains some Blogs written as well with a well made carousel and sidebar with Media links.</p>
 
